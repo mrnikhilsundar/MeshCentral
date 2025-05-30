@@ -1,6 +1,6 @@
-# MeshCentral
+# Melvet Residency
 
-## Table of Contents
+## Enjoy your stay
 
 [About](#about)  
 [Social Media](#social-media)  
